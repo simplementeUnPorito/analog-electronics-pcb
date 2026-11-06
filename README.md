@@ -1,6 +1,6 @@
-<h1 align="center">Analog Electronics and PCB Design Showcase</h1>
-<p align="center"><b>Two analog signal-chain projects taken from calculation and SPICE simulation to a fabricated printed circuit board.</b><br>
-<img src="https://img.shields.io/badge/EasyEDA-PCB-1f6feb"> <img src="https://img.shields.io/badge/OrCAD-PSpice-orange"> <img src="https://img.shields.io/badge/Analog-Design-informational"></p>
+<p align="center"><img src="docs/img/banner.svg" width="100%" alt="Analog Electronics on Custom PCBs"></p>
+
+<p align="center"><img src="https://img.shields.io/badge/EasyEDA-PCB-1f6feb"> <img src="https://img.shields.io/badge/OrCAD-PSpice-orange"> <img src="https://img.shields.io/badge/Analog-Design-informational"></p>
 <p align="center"><a href="#english">English</a> · <a href="#español">Español</a></p>
 
 ## English
