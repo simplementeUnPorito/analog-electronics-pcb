@@ -10,7 +10,7 @@ Hardware projects by Elías David Álvarez Martínez (Electronics Engineering, U
 | | Project | Summary |
 |---|---|---|
 | <a href="projects/01-electret-microphone-amplifier"><img src="docs/img/electret-amplifier.jpg" width="260" alt="Assembled electret amplifier board"></a> | **[Electret Microphone Amplifier](projects/01-electret-microphone-amplifier)** | Three-stage 2N2222 common-emitter amplifier, target gain of 70 into a 32 Ω load.<br>Hand-etched PCB; output measured above 70 times the input. |
-| <a href="https://github.com/simplementeUnPorito/dsp-psoc5lp"><img src="docs/img/stethoscope-frontend.jpg" width="260" alt="Assembled stethoscope front-end board"></a> | **[Electronic Stethoscope: PVDF Front-End and Real-Time DSP on PSoC 5LP](https://github.com/simplementeUnPorito/dsp-psoc5lp)** | Charge amplifier, INA128, 650 Hz low-pass and LM386 audio stage for heart-sound pickup.<br>Fabricated PCB, now part of a full analog + DSP project hosted in its own repository. |
+| <a href="projects/02-analog-electronic-stethoscope"><img src="docs/img/stethoscope-frontend.jpg" width="260" alt="Assembled stethoscope front-end board"></a> | **[Analog Electronic Stethoscope (PVDF)](projects/02-analog-electronic-stethoscope)** | Charge amplifier, INA128, 650 Hz low-pass and LM386 audio stage for heart-sound pickup.<br>Fully analog design, simulated in PSpice and fabricated on a PCB. A later digital redesign lives in [dsp-psoc5lp](https://github.com/simplementeUnPorito/dsp-psoc5lp). |
 
 ### License
 MIT. Reports and figures are shared for reference. Third-party datasheets and papers are not redistributed; each project README lists them.
@@ -22,7 +22,7 @@ Proyectos de hardware de Elías David Álvarez Martínez (Ingeniería Electróni
 | | Proyecto | Resumen |
 |---|---|---|
 | <a href="projects/01-electret-microphone-amplifier"><img src="docs/img/electret-amplifier.jpg" width="260" alt="Placa del amplificador ensamblada"></a> | **[Amplificador para micrófono electret](projects/01-electret-microphone-amplifier)** | Amplificador de tres etapas emisor común con 2N2222, ganancia objetivo de 70 sobre 32 Ω.<br>PCB hecha a mano; salida medida superior a 70 veces la entrada. |
-| <a href="https://github.com/simplementeUnPorito/dsp-psoc5lp"><img src="docs/img/stethoscope-frontend.jpg" width="260" alt="Placa del front-end del estetoscopio ensamblada"></a> | **[Estetoscopio electrónico: front-end PVDF y DSP en tiempo real con PSoC 5LP](https://github.com/simplementeUnPorito/dsp-psoc5lp)** | Amplificador de carga, INA128, pasa-bajos de 650 Hz y etapa de audio LM386 para captar sonidos cardíacos.<br>PCB fabricada; ahora parte de un proyecto completo analógico + DSP en su propio repositorio. |
+| <a href="projects/02-analog-electronic-stethoscope"><img src="docs/img/stethoscope-frontend.jpg" width="260" alt="Placa del front-end del estetoscopio ensamblada"></a> | **[Estetoscopio electrónico analógico (PVDF)](projects/02-analog-electronic-stethoscope)** | Amplificador de carga, INA128, pasa-bajos de 650 Hz y etapa de audio LM386 para captar sonidos cardíacos.<br>Diseño totalmente analógico, simulado en PSpice y fabricado en PCB. El rediseño digital posterior está en [dsp-psoc5lp](https://github.com/simplementeUnPorito/dsp-psoc5lp). |
 
 ### Licencia
 MIT. Los informes y figuras se comparten como referencia. Las hojas de datos y artículos de terceros no se redistribuyen; cada README de proyecto los enumera.
