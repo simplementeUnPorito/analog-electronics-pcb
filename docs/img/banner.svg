@@ -2,16 +2,16 @@
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#13233f"/></linearGradient>
 <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".04"/></pattern>
-<radialGradient id="glow" cx=".85" cy=".5" r=".45"><stop offset="0" stop-color="#f5b041" stop-opacity=".22"/><stop offset="1" stop-color="#f5b041" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow" cx=".85" cy=".5" r=".45"><stop offset="0" stop-color="#34d399" stop-opacity=".22"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient>
 </defs>
 <rect width="1280" height="320" rx="20" fill="url(#bg)"/>
 <rect width="1280" height="320" rx="20" fill="url(#grid)"/>
 <rect width="1280" height="320" rx="20" fill="url(#glow)"/>
-<rect x="64" y="58" width="56" height="5" rx="2.5" fill="#f5b041"/>
+<rect x="64" y="58" width="56" height="5" rx="2.5" fill="#34d399"/>
 <g font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif">
 <text x="64" y="128" font-size="46" font-weight="700" fill="#f8fafc">Analog Electronics on Custom PCBs</text>
 <text x="64" y="176" font-size="21" fill="#94a3b8">Microphone amplifier and analog PVDF stethoscope, from simulation to PCB</text>
-<rect x="64" y="232" width="51" height="34" rx="17" fill="#f5b041" fill-opacity=".12" stroke="#f5b041" stroke-opacity=".55"/><text x="89" y="255" font-size="16" fill="#e2e8f0" text-anchor="middle">BJT</text><rect x="126.8" y="232" width="60" height="34" rx="17" fill="#f5b041" fill-opacity=".12" stroke="#f5b041" stroke-opacity=".55"/><text x="157" y="255" font-size="16" fill="#e2e8f0" text-anchor="middle">PVDF</text><rect x="199.2" y="232" width="80" height="34" rx="17" fill="#f5b041" fill-opacity=".12" stroke="#f5b041" stroke-opacity=".55"/><text x="239" y="255" font-size="16" fill="#e2e8f0" text-anchor="middle">PSpice</text><rect x="290.79999999999995" y="232" width="89" height="34" rx="17" fill="#f5b041" fill-opacity=".12" stroke="#f5b041" stroke-opacity=".55"/><text x="335" y="255" font-size="16" fill="#e2e8f0" text-anchor="middle">EasyEDA</text>
+<rect x="64" y="232" width="51" height="34" rx="17" fill="#34d399" fill-opacity=".12" stroke="#34d399" stroke-opacity=".55"/><text x="89" y="255" font-size="16" fill="#e2e8f0" text-anchor="middle">BJT</text><rect x="126.8" y="232" width="60" height="34" rx="17" fill="#34d399" fill-opacity=".12" stroke="#34d399" stroke-opacity=".55"/><text x="157" y="255" font-size="16" fill="#e2e8f0" text-anchor="middle">PVDF</text><rect x="199.2" y="232" width="80" height="34" rx="17" fill="#34d399" fill-opacity=".12" stroke="#34d399" stroke-opacity=".55"/><text x="239" y="255" font-size="16" fill="#e2e8f0" text-anchor="middle">PSpice</text><rect x="290.79999999999995" y="232" width="89" height="34" rx="17" fill="#34d399" fill-opacity=".12" stroke="#34d399" stroke-opacity=".55"/><text x="335" y="255" font-size="16" fill="#e2e8f0" text-anchor="middle">EasyEDA</text>
 </g>
-<g transform="translate(980 40)" stroke="#f5b041" fill="#f5b041" stroke-linecap="round" font-family="Segoe UI, Arial, sans-serif"><path d="M30 60 h70 v50 h60 M30 180 h90 v-40 h90 M210 60 h-50 v40" fill="none" stroke-width="5"/><circle cx="30" cy="60" r="9"/><circle cx="30" cy="180" r="9"/><circle cx="210" cy="60" r="9"/><circle cx="210" cy="140" r="9"/><rect x="95" y="95" width="60" height="45" rx="5" fill="none" stroke-width="4"/></g>
+<g transform="translate(980 40)" stroke="#34d399" fill="#34d399" stroke-linecap="round" font-family="Segoe UI, Arial, sans-serif"><path d="M70 50 L70 190 L190 120 Z" fill="none" stroke-width="6" stroke-linejoin="round"/><path d="M82 88 h16 M90 80 v16 M82 152 h16" stroke-width="4"/><path d="M10 88 h60 M10 152 h60 M190 120 h45" stroke-width="5"/><path d="M-20 88 q8 -10 16 0 t16 0" fill="none" stroke-width="3" opacity=".8"/><path d="M200 70 q10 -28 20 0 t20 0" fill="none" stroke-width="4" opacity=".9"/></g>
 </svg>
