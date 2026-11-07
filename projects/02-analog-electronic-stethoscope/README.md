@@ -65,7 +65,7 @@ Outcome: on first power-up the board produced signal briefly, then heated up aro
 Two layouts are provided. The compact layout (`layout-compact.pdf`) matches the board built and photographed in the report.
 
 <p align="center"><img src="hardware/pcb/pcb-3d.svg" width="420" alt="3D render placeholder"><br><i>3D render, to be exported from EasyEDA</i></p>
-<p align="center"><img src="hardware/pcb/layout-compact-top.png" width="320" alt="Compact layout top"> <img src="hardware/pcb/layout-compact-bottom.png" width="320" alt="Compact layout bottom"></p>
+<p align="center"><img src="hardware/pcb/layout-compact-top.png" width="320" alt="Compact layout top"></p>
 
 ### References (not redistributed)
 - Maxim, "Amplifier Provides Signal Conditioning for Piezofilm Sensor", Application Note 1127.

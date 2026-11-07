@@ -59,7 +59,7 @@ Layouts, board and silkscreen PDFs and the Gerber set are in [`hardware/pcb/`](h
 
 <p align="center"><img src="hardware/pcb/render-top.png" width="520" alt="PCB render, top view with bottom copper shown through"><br><i>Board render (top view, bottom copper shown dimmed); EasyEDA sources in <code>hardware/easyeda/</code></i></p>
 
-<p align="center"><img src="docs/img/pcb-layout-composite.png" width="360" alt="Board layout"> <img src="docs/img/board-marker-etched.jpg" width="320" alt="Hand-etched board"></p>
+<p align="center"><img src="docs/img/board-marker-etched.jpg" width="320" alt="Hand-etched board"></p>
 
 ### Prototype photos
 <table><tr>
