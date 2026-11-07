@@ -67,7 +67,7 @@ Layouts, board and silkscreen PDFs and the Gerber set are in [`hardware/pcb/`](h
 </tr></table>
 
 ### Team & credits
-Developed by Elías Álvarez and Tania Romero at Universidad Católica "Nuestra Señora de la Asunción" (Paraguay), 2024. Advisor: Lucas Frutos.
+Developed by Elías Álvarez and Tania Romero at Universidad Católica "Nuestra Señora de la Asunción" (Paraguay), 2024. Advisor: MSc. Lucas Frutos.
 
 ### License
 MIT, see [LICENSE](../../LICENSE). The report and figures are shared for reference.
@@ -102,7 +102,7 @@ Ver [`hardware/pcb/`](hardware/pcb/). Render 3D pendiente de exportar desde Easy
 </tr></table>
 
 ### Equipo y créditos
-Desarrollado por Elías Álvarez y Tania Romero en la Universidad Católica "Nuestra Señora de la Asunción" (Paraguay), 2024. Tutor: Lucas Frutos.
+Desarrollado por Elías Álvarez y Tania Romero en la Universidad Católica "Nuestra Señora de la Asunción" (Paraguay), 2024. Tutor: Mg. Lucas Frutos.
 
 ### Licencia
 MIT. El informe y las figuras se comparten como referencia.
