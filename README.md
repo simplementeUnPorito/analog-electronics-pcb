@@ -5,7 +5,7 @@
 
 ## English
 
-Hardware projects by Elías David Álvarez Martínez (Electronics Engineering, Universidad Católica "Nuestra Señora de la Asunción", Paraguay). Each project contains the technical report, PCB exports, simulation material and its own README.
+Hardware projects by Elías David Álvarez Martínez (Electronics Engineering, Universidad Católica "Nuestra Señora de la Asunción", Paraguay). Each project includes a technical report, PCB exports, simulation files and a dedicated README.
 
 | | Project | Summary |
 |---|---|---|
@@ -17,7 +17,7 @@ MIT. Reports and figures are shared for reference. Third-party datasheets and pa
 
 ## Español
 
-Proyectos de hardware de Elías David Álvarez Martínez (Ingeniería Electrónica, Universidad Católica "Nuestra Señora de la Asunción", Paraguay). Cada proyecto incluye el informe técnico, exportaciones de PCB, material de simulación y su propio README.
+Proyectos de hardware de Elías David Álvarez Martínez (Ingeniería Electrónica, Universidad Católica "Nuestra Señora de la Asunción", Paraguay). Cada proyecto incluye un informe técnico, exportaciones de PCB, archivos de simulación y un README propio.
 
 | | Proyecto | Resumen |
 |---|---|---|
