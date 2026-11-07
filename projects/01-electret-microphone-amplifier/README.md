@@ -61,6 +61,11 @@ Layouts, board and silkscreen PDFs and the Gerber set are in [`hardware/pcb/`](h
 
 <p align="center"><img src="docs/img/pcb-layout-composite.png" width="360" alt="Board layout"> <img src="docs/img/board-marker-etched.jpg" width="320" alt="Hand-etched board"></p>
 
+### Prototype photos
+<table><tr>
+<td align="center" width="25%"><img src="docs/img/photos/01-amp-pcb-front.jpg" width="220" alt="Etched amplifier PCB with discrete components"><br><sub>Etched amplifier PCB with discrete components</sub></td><td align="center" width="25%"><img src="docs/img/photos/03-amp-pcb-solder-side.jpg" width="220" alt="Solder side of etched amplifier PCB"><br><sub>Solder side of etched amplifier PCB</sub></td><td align="center" width="25%"><img src="docs/img/photos/05-scope-amp-output.jpg" width="220" alt="Oscilloscope showing amplified sine output"><br><sub>Oscilloscope showing amplified sine output</sub></td><td align="center" width="25%"><img src="docs/img/photos/07-scope-noise-gain.jpg" width="220" alt="Noisy input and clean amplified sine"><br><sub>Noisy input and clean amplified sine</sub></td>
+</tr></table>
+
 ### Team & credits
 Developed by Elías Álvarez and Tania Romero at Universidad Católica "Nuestra Señora de la Asunción" (Paraguay), 2024. Advisor: Lucas Frutos.
 
@@ -90,6 +95,11 @@ Ver las figuras de la sección en inglés (transitorio a 1 kHz, respuesta en fre
 
 ### PCB
 Ver [`hardware/pcb/`](hardware/pcb/). Render 3D pendiente de exportar desde EasyEDA.
+
+### Fotos del prototipo
+<table><tr>
+<td align="center" width="25%"><img src="docs/img/photos/01-amp-pcb-front.jpg" width="220" alt="Etched amplifier PCB with discrete components"><br><sub>Etched amplifier PCB with discrete components</sub></td><td align="center" width="25%"><img src="docs/img/photos/03-amp-pcb-solder-side.jpg" width="220" alt="Solder side of etched amplifier PCB"><br><sub>Solder side of etched amplifier PCB</sub></td><td align="center" width="25%"><img src="docs/img/photos/05-scope-amp-output.jpg" width="220" alt="Oscilloscope showing amplified sine output"><br><sub>Oscilloscope showing amplified sine output</sub></td><td align="center" width="25%"><img src="docs/img/photos/07-scope-noise-gain.jpg" width="220" alt="Noisy input and clean amplified sine"><br><sub>Noisy input and clean amplified sine</sub></td>
+</tr></table>
 
 ### Equipo y créditos
 Desarrollado por Elías Álvarez y Tania Romero en la Universidad Católica "Nuestra Señora de la Asunción" (Paraguay), 2024. Tutor: Lucas Frutos.

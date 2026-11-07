@@ -75,6 +75,11 @@ Two layouts are provided. The compact layout (`layout-compact.pdf`) matches the 
 - V. Gross et al., "The Relationship between Normal Lung Sounds, Age, and Gender", Am J Respir Crit Care Med 162 (2000).
 - Further clinical and application references are listed in the report.
 
+### Prototype photos
+<table><tr>
+<td align="center" width="25%"><img src="docs/img/photos/01-analog-board-desk.jpg" width="220" alt="Analog front-end PCB with trimmer potentiometer"><br><sub>Analog front-end PCB with trimmer potentiometer</sub></td><td align="center" width="25%"><img src="docs/img/photos/03-analog-board-closeup.jpg" width="220" alt="Analog PCB with op-amp, trimmer, and SMD parts"><br><sub>Analog PCB with op-amp, trimmer, and SMD parts</sub></td><td align="center" width="25%"><img src="docs/img/photos/07-handheld-scope-response.jpg" width="220" alt="Handheld oscilloscope showing frequency response"><br><sub>Handheld oscilloscope showing frequency response</sub></td><td align="center" width="25%"><img src="docs/img/photos/08-breadboard-prototype.jpg" width="220" alt="Op-amp breadboard prototype under test"><br><sub>Op-amp breadboard prototype under test</sub></td>
+</tr></table>
+
 ### Team & credits
 Developed by Elías Álvarez and Tania Romero at Universidad Católica "Nuestra Señora de la Asunción" (Paraguay), 2024. A later, separate project redesigned the stethoscope with digital signal processing on a PSoC 5LP: [dsp-psoc5lp](https://github.com/simplementeUnPorito/dsp-psoc5lp).
 
@@ -98,6 +103,11 @@ En el primer encendido la placa entregó señal brevemente y luego se calentó a
 
 ### Uso, estructura y PCB
 Ver las secciones en inglés. Abrir `simulation/*.dsn` con OrCAD Capture/PSpice (se requieren los modelos de TI). Las exportaciones de EasyEDA están en `hardware/pcb/`; el render 3D está pendiente de exportar.
+
+### Fotos del prototipo
+<table><tr>
+<td align="center" width="25%"><img src="docs/img/photos/01-analog-board-desk.jpg" width="220" alt="Analog front-end PCB with trimmer potentiometer"><br><sub>Analog front-end PCB with trimmer potentiometer</sub></td><td align="center" width="25%"><img src="docs/img/photos/03-analog-board-closeup.jpg" width="220" alt="Analog PCB with op-amp, trimmer, and SMD parts"><br><sub>Analog PCB with op-amp, trimmer, and SMD parts</sub></td><td align="center" width="25%"><img src="docs/img/photos/07-handheld-scope-response.jpg" width="220" alt="Handheld oscilloscope showing frequency response"><br><sub>Handheld oscilloscope showing frequency response</sub></td><td align="center" width="25%"><img src="docs/img/photos/08-breadboard-prototype.jpg" width="220" alt="Op-amp breadboard prototype under test"><br><sub>Op-amp breadboard prototype under test</sub></td>
+</tr></table>
 
 ### Equipo y créditos
 Desarrollado por Elías Álvarez y Tania Romero en la Universidad Católica "Nuestra Señora de la Asunción" (Paraguay), 2024. Un proyecto posterior e independiente rediseñó el estetoscopio con procesamiento digital en PSoC 5LP: [dsp-psoc5lp](https://github.com/simplementeUnPorito/dsp-psoc5lp).
