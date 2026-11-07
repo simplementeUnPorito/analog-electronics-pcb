@@ -1,6 +1,6 @@
 <p align="center"><img src="docs/img/banner.svg" width="100%" alt="Analog Electronics on Custom PCBs"></p>
 
-<p align="center"><img src="https://img.shields.io/badge/EasyEDA-PCB-1f6feb"> <img src="https://img.shields.io/badge/OrCAD-PSpice-orange"> <img src="https://img.shields.io/badge/Analog-Design-informational"></p>
+<p align="center"><img src="https://img.shields.io/badge/Year-2024-555"> <img src="https://img.shields.io/badge/EasyEDA-PCB-1f6feb"> <img src="https://img.shields.io/badge/OrCAD-PSpice-orange"> <img src="https://img.shields.io/badge/Analog-Design-informational"></p>
 <p align="center"><a href="#english">English</a> · <a href="#español">Español</a></p>
 
 ## English
