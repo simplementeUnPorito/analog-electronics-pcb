@@ -61,6 +61,8 @@ Open `simulation/*.dsn` with OrCAD Capture / PSpice (the project used Cadence SP
 
 Outcome: on first power-up the board produced signal briefly, then heated up around the instrumentation amplifier and stopped working. The report attributes this to a sub-optimal PCB design (heat dissipation), limited time for testing, and difficulty sourcing imported ICs. The modular design approach allowed most stages to be developed and simulated successfully.
 
+<p align="center"><img src="docs/img/overheated-instrumentation-section.jpg" width="620" alt="Fabricated board around the overheated instrumentation-amplifier section"><br><i>Close-up of the fabricated board around the instrumentation-amplifier section that overheated during initial testing.</i></p>
+
 ### PCB
 Two layouts are provided. The compact layout (`layout-compact.pdf`) matches the board built and photographed in the report.
 
@@ -100,6 +102,8 @@ Estetoscopio electrónico que capta sonidos cardíacos con un sensor piezoeléct
 
 ### Resultado
 En el primer encendido la placa entregó señal brevemente y luego se calentó alrededor del amplificador de instrumentación y dejó de funcionar. El informe lo atribuye a un diseño de PCB subóptimo (disipación de calor), poco tiempo de prueba y dificultad para conseguir circuitos integrados importados.
+
+<p align="center"><img src="docs/img/overheated-instrumentation-section.jpg" width="620" alt="Placa fabricada alrededor de la sección sobrecalentada del amplificador de instrumentación"><br><i>Primer plano de la placa fabricada alrededor de la sección del amplificador de instrumentación que se sobrecalentó durante las pruebas iniciales.</i></p>
 
 ### Uso, estructura y PCB
 Ver las secciones en inglés. Abrir `simulation/*.dsn` con OrCAD Capture/PSpice (se requieren los modelos de TI). Las exportaciones de EasyEDA están en `hardware/pcb/`; el render 3D está pendiente de exportar.
