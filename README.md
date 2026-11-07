@@ -21,7 +21,7 @@ Proyectos de hardware de Elías David Álvarez Martínez (Ingeniería Electróni
 
 | | Proyecto | Resumen |
 |---|---|---|
-| <a href="projects/01-electret-microphone-amplifier"><img src="docs/img/electret-amplifier.jpg" width="260" alt="Placa del amplificador ensamblada"></a> | **[Amplificador para micrófono electret](projects/01-electret-microphone-amplifier)** | Amplificador de tres etapas emisor común con 2N2222, ganancia objetivo de 70 sobre 32 Ω.<br>PCB hecha a mano; salida medida superior a 70 veces la entrada. |
+| <a href="projects/01-electret-microphone-amplifier"><img src="docs/img/electret-amplifier.jpg" width="260" alt="Placa ensamblada del amplificador para electret"></a> | **[Amplificador para micrófono electret](projects/01-electret-microphone-amplifier)** | Amplificador de tres etapas en emisor común con 2N2222, ganancia objetivo de 70 con una carga de 32 Ω.<br>PCB fabricada por ataque químico manual; la salida medida superó 70 veces la entrada. |
 | <a href="projects/02-analog-electronic-stethoscope"><img src="docs/img/stethoscope-frontend.jpg" width="260" alt="Placa del front-end del estetoscopio ensamblada"></a> | **[Estetoscopio electrónico analógico (PVDF)](projects/02-analog-electronic-stethoscope)** | Amplificador de carga, INA128, pasa-bajos de 650 Hz y etapa de audio LM386 para captar sonidos cardíacos.<br>Diseño totalmente analógico, simulado en PSpice y fabricado en PCB. El rediseño digital posterior está en [dsp-psoc5lp](https://github.com/simplementeUnPorito/dsp-psoc5lp). |
 
 ### Licencia
