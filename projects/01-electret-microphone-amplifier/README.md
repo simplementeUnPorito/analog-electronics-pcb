@@ -57,7 +57,7 @@ The report also discusses noise with generic power supplies and proposes improve
 ### PCB
 Layouts, board and silkscreen PDFs and the Gerber set are in [`hardware/pcb/`](hardware/pcb/).
 
-<p align="center"><img src="hardware/pcb/pcb-3d.svg" width="420" alt="3D render placeholder"><br><i>3D render, to be exported from EasyEDA</i></p>
+<p align="center"><img src="hardware/pcb/render-top.png" width="520" alt="PCB render, top view with bottom copper shown through"><br><i>Board render (top view, bottom copper shown dimmed); EasyEDA sources in <code>hardware/easyeda/</code></i></p>
 
 <p align="center"><img src="docs/img/pcb-layout-composite.png" width="360" alt="Board layout"> <img src="docs/img/board-marker-etched.jpg" width="320" alt="Hand-etched board"></p>
 
